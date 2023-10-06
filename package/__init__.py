@@ -1,1 +1,1 @@
-from fun import fun
+from cfun import ffun
