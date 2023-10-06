@@ -1,4 +1,4 @@
-class fun:
-  def fun(x,y):
+class cfun:
+  def ffun(x,y):
     z= x+y
     return (z)
